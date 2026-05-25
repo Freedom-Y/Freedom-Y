@@ -29,7 +29,7 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 
 ## GitHub Stats
 
-![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedom-Y&show_icons=true)
+![Freedom-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedom-Y&show_icons=true)
 
 ## Languages
 
