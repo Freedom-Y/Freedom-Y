@@ -29,8 +29,8 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 
 ## GitHub Stats
 
-![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanyang9711&show_icons=true)
+![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freedom-Y&show_icons=true)
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyang9711&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freedom-Y&layout=compact)
