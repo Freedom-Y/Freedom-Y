@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Freedom-Y/Freedom-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am interested in robotics, UAV control, reinforcement learning, and simulation-based autonomous navigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on UAV agile navigation and Isaac Lab simulation
+- 🌱 Learning reinforcement learning, PX4 control, and sim-to-real deployment
+- 💻 Interested in Isaac Sim, ROS 2, CUDA, and autonomous systems
+- 📫 Contact: fanyang9711@gmail.com
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+## Research Interests
+
+- UAV autonomous navigation
+- Reinforcement learning
+- LiDAR-based mapping
+- ESDF / TSDF map construction
+- Sim-to-real transfer
+- Isaac Sim / Isaac Lab
+
+## GitHub Stats
+
+![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanyang9711&show_icons=true)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyang9711&layout=compact)
