@@ -27,15 +27,10 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 - Sim-to-real transfer
 - Isaac Sim / Isaac Lab
 
+
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api?username=Freedom-Y&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs/?username=Freedom-Y&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img height="170px" align="left" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs?username=Freedom-Y&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Freedom-Y Top Languages" />
+  <img height="170px" align="right" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api?username=Freedom-Y&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&count_private=true" alt="Freedom-Y GitHub Stats" />
+</div>
