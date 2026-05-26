@@ -19,15 +19,13 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-## Research Interests
+### **Research Interests**
 
 - UAV autonomous navigation
 - Reinforcement learning
 - Sim-to-real transfer
 - Isaac Sim / Isaac Lab
 
-
-## GitHub Stats
 
 <div>
   <img height="170px" align="left" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs?username=Freedom-Y&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Freedom-Y Top Languages" />
