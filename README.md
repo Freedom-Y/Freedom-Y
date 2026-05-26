@@ -16,8 +16,9 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 - Sim-to-real transfer
 - Isaac Sim / Isaac Lab
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-1E1E1E?style=flat-square&logo=px4&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
