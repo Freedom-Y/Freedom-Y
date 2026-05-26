@@ -27,9 +27,9 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 - Sim-to-real transfer
 - Isaac Sim / Isaac Lab
 
-
 ## GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api?username=Freedom-Y&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs/?username=Freedom-Y&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api?username=Freedom-Y&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="41%" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs/?username=Freedom-Y&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 </p>
