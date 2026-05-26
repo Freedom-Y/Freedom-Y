@@ -9,7 +9,12 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 - 💻 Interested in Isaac Sim, ROS 2, CUDA, and autonomous systems
 - 📫 Contact: fanyang9711@gmail.com
 
+### **Research Interests**
 
+- UAV autonomous navigation
+- Reinforcement learning
+- Sim-to-real transfer
+- Isaac Sim / Isaac Lab
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -19,12 +24,7 @@ I am interested in robotics, UAV control, reinforcement learning, and simulation
 ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-### **Research Interests**
 
-- UAV autonomous navigation
-- Reinforcement learning
-- Sim-to-real transfer
-- Isaac Sim / Isaac Lab
 
 
 <div>
