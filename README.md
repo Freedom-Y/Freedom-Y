@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 **About Me**
  
-I am interested in robotics, UAV control, reinforcement learning, and simulation-based autonomous navigation.
+I am interested in robotics, UAV autonomous navigation, and reinforcement learning.
 
 - 🔭 Currently working on UAV agile navigation and Isaac Lab simulation
 - 🌱 Learning reinforcement learning, PX4 control, and sim-to-real deployment
