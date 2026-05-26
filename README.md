@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### **About Me**
+### **About Me**👨🏻‍💻
  
 I am interested in robotics, UAV control, reinforcement learning, and simulation-based autonomous navigation.
 
