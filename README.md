@@ -4,17 +4,17 @@
  
 I am interested in robotics, UAV autonomous navigation, and reinforcement learning.
 
-- 🔭 Currently working on UAV agile navigation and Isaac Lab simulation
+- 🔭 Currently working on UAV agile navigation and Swarm cooperative planning
 - 🌱 Learning reinforcement learning, PX4 control, and sim-to-real deployment
-- 💻 Interested in Isaac Sim, ROS 2, CUDA, and autonomous systems
+- 💻 Interested in ROS, Isaac Lab, PX4, and autonomous systems
 - 📫 Contact: fanyang9711@gmail.com
 
 ### **Research Interests**
 
 - UAV autonomous navigation
+- Swarm cooperative planning
 - Reinforcement learning
 - Sim-to-real transfer
-- Isaac Sim / Isaac Lab
 
 
 
