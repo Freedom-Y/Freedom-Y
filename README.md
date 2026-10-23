@@ -33,7 +33,11 @@ I am interested in robotics, UAV autonomous navigation, world action model and e
     src="https://github-stats-extended.vercel.app/api?username=Freedom-Y&amp;show_icons=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true"
     alt="Freedom-Y GitHub Stats"
   />
- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Freedom-Y&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Freedom-Y&langs_count=4&theme=light_github)
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=Freedom-Y&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=8"
+  alt="Freedom-Y Top Languages"
+/>
 </div>
 
 
