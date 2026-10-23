@@ -27,7 +27,10 @@ I am interested in robotics, UAV autonomous navigation, world action model and e
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 
-<div>
-  <img height="170px" align="left" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api/top-langs?username=Freedom-Y&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Freedom-Y Top Languages" />
-  <img height="170px" align="right" src="https://github-readme-stats-freedom-y-s-projects.vercel.app/api?username=Freedom-Y&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&count_private=true" alt="Freedom-Y GitHub Stats" />
+<div align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Freedom-Y&amp;show_icons=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true"
+    alt="Freedom-Y GitHub Stats"
+  />
 </div>
