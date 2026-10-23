@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 **About Me**
  
-I am interested in robotics, UAV autonomous navigation, and reinforcement learning.
+I am interested in robotics, UAV autonomous navigation, world action model and embodied intelligence.
 
 - 🔭 Currently working on UAV agile navigation and Swarm cooperative planning
 - 🌱 Learning reinforcement learning, PX4 control, and sim-to-real deployment
