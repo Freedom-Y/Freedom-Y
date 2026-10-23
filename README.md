@@ -14,6 +14,7 @@ I am interested in robotics, UAV autonomous navigation, world action model and e
 - UAV autonomous navigation
 - Swarm cooperative planning
 - Reinforcement learning
+- World action model
 - Sim-to-real transfer
 
 
